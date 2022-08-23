@@ -1,4 +1,4 @@
-<h1 align="center">Jasur - the master Javascript or Nodejs- Jamolov</h1>
+<h1 align="center">Jasur - the master Javascript and Nodejs- Jamolov</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
