@@ -2,7 +2,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am  Jasurbek Jamolov. I am a full-stack software engineer specializing in building high load back-end and front-end services, web applications, and systems using react and nodejs. I solve problems, automate things, help businesses and people to grow and improve life. </br>
+I am  Jasurbek Jamolov. I am a full-stack software engineer specializing in building high load back-end and front-end services, web applications, and systems using jqury and nodejs. I solve problems, automate things, help businesses and people to grow and improve life. </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
